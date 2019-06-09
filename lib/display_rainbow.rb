@@ -1,4 +1,4 @@
 # Write your #display_rainbow method here
 def #display_rainbow(colors)
-  puts #{colors[0][0]}.upcase + ": #{arr[0]}, " + #{arr[1][0]}.upcase + ": #{arr[1]}, " + #{arr[2][0]}.upcase + ": #{arr[2]}, " + #{arr[3][0]}.upcase + ": #{arr[3]}, " + #{arr[4][0]}.upcase + ": #{arr[4]}, " + #{arr[5][0]}.upcase + ": #{arr[5]}, " + #{arr[6][0]}.upcase + ": #{arr[6]}"
+  puts #{colors[0][0]}.upcase + ": #{colors[0]}, " + #{colors[1][0]}.upcase + ": #{colors[1]}, " + #{colorscolorscolors[2][0]}.upcase + ": #{colors[2]}, " + #{colors[3][0]}.upcase + ": #{colors[3]}, " + #{colors[4][0]}.upcase + ": #{colors[4]}, " + #{colors[5][0]}.upcase + ": #{colors[5]}, " + #{colors[6][0]}.upcase + ": #{colors[6]}"
 end
