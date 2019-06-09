@@ -2,4 +2,5 @@
 def #display_rainbow(arr)
   arr.each {|x|
   puts "arr[x].upcase: arr[x],"
+  }
 end
